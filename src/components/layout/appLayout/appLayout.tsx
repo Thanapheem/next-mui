@@ -7,11 +7,9 @@ import Typography from "@mui/material/Typography";
 import Menu from "@mui/material/Menu";
 import {
   MoveToInbox,
-  InboxOutlined,
   SearchOutlined,
   ExpandLess,
   ExpandMore,
-  StarBorder,
   PictureAsPdfOutlined,
 } from "@mui/icons-material";
 import Container from "@mui/material/Container";
